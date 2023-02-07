@@ -3,7 +3,7 @@ NMEA 2000 NMEA 0183 GATE away
 
 I have started this project a few years ago for boat the goal was to implement a small factor pc connected to nmea (2000 and 0183) to display data on a smart touch  display on the console of the boat.
 
-I have seen a lot of example using raspberry pi but for my goal the graphic power of a pi was not enough to power a large display like phto below.
+I have seen a lot of example using raspberry pi but for my goal the graphic power of a pi was not enough to power a large display like photo below.
 
 ![boat 2023](https://user-images.githubusercontent.com/41333143/217280431-9ed467c4-3f9a-4ce4-accd-00c1c4b01b3c.png)
 
