@@ -24,7 +24,9 @@ Just Adding this header below #include <Arduino.h>
 #define USE_N2K_CAN 1 // Force mcp_can
 #define N2k_SPI_CS_PIN 5 // Pin for SPI CAN Select
 
+3 For GPS data on main screen i have connected  a 0183 GPS to the PC by serial com and used and give thanks to https://github.com/jamesp/node-nmea
 
-up to date next time 
+for his node js nmea library .
+
 
 
