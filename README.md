@@ -26,7 +26,9 @@ Just Adding this header below #include <Arduino.h>
 
 3 For GPS data on main screen i have connected  a 0183 GPS to the PC by serial com and used and give thanks to https://github.com/jamesp/node-nmea
 
-for his node js nmea library . It's provide on main screen SAT in view, LAT and LONG AND COG
+for his node js nmea library . The main screen is an Electron Node JS app that provide  on main screen SAT in view, LAT and LONG AND COG.
+
+For Sensor data I have used the famous MPU 6050 linked with Heading Compass to make a tilt Compass .
 
 
 
