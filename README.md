@@ -30,14 +30,15 @@ for his node js nmea library . The main screen is an Electron Node JS app that p
 
 For Sensor data I have used the famous MPU 6050 linked with Heading Compass to make a tilt Compass .
 
+
+
+![ELECTRONIC Tilt Gyro Compass](https://github.com/MaxESP/ESP32-CAN-GATE-AWAY/assets/41333143/a4d379c6-4a95-4f7a-9324-8442a2d0151d)
+
 The new Tilt Compass Gyro is launched.
 Hardware
 ESP32
 LSM303DLH compass + mpu6050
 RS485  board + CP2102 serial
-
-![ELECTRONIC Tilt Gyro Compass](https://github.com/MaxESP/ESP32-CAN-GATE-AWAY/assets/41333143/a4d379c6-4a95-4f7a-9324-8442a2d0151d)
-
 
 ![back pcb](https://github.com/MaxESP/ESP32-CAN-GATE-AWAY/assets/41333143/76101a8e-e447-40bf-9596-0d4b6ae38cae)
 
