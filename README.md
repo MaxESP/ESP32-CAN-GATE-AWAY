@@ -43,5 +43,12 @@ RS485  board + CP2102 serial
 ![back pcb](https://github.com/MaxESP/ESP32-CAN-GATE-AWAY/assets/41333143/76101a8e-e447-40bf-9596-0d4b6ae38cae)
 
 
+I have found a magic IC CH344Q to connect to my computer USB to Quad Serial Ports Chip CH344 it's perfect to receive rs485 or nmea 2000 sensors to my pc dash board above 
 
 
+
+
+
+
+
+![usb serial x4 hub](https://github.com/MaxESP/ESP32-CAN-GATE-AWAY/assets/41333143/e34f9870-eacd-4ba0-a408-ee9e14ba09e3)
